@@ -27,3 +27,21 @@ pip install -r requirements.txt
 
 ▶️ Usage
 python scanner.py
+python scanner.py
+Enter target URL when prompted.
+Scanner will crawl, detect forms, test SQLi/XSS, check headers, scan ports, and generate a report.
+📄 Sample Output
+[OPEN] 80
+[OPEN] 443
+[FORM] http://target.com/login.php
+[SQLi] http://target.com/login.php
+[FORM XSS] http://target.com/search.php
+[DIR] http://target.com/admin
+
+✅ Scan Complete → report.txt
+
+## ⚠️ Disclaimer
+
+This tool is for educational purposes only.
+Do not use on unauthorized websites.
+Use only in controlled environments or with proper permission (labs, bug bounty programs).
