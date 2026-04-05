@@ -21,3 +21,9 @@ A mini automated vulnerability scanner inspired by tools like Burp Suite and OWA
 ```bash
 git clone https://github.com/Rd9315/vapt-scanner.git
 cd vapt-scanner
+
+2.Install dependencies:
+pip install -r requirements.txt
+
+▶️ Usage
+python scanner.py
