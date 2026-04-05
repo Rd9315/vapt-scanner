@@ -28,6 +28,3 @@ pip install -r requirements.txt
 ▶️ Usage
 python scanner.py
 
-This tool is for educational purposes only.
-Do not use on unauthorized websites.
-Use only in controlled environments or with proper permission (labs, bug bounty programs).
