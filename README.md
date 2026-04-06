@@ -1,4 +1,4 @@
-# 🔐 Advanced VAPT Scanner (Python)
+# 🔐 VAPT Scanner (Python)
 
 A mini automated vulnerability scanner inspired by tools like Burp Suite and OWASP ZAP.
 
